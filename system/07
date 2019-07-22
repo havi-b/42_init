@@ -1,0 +1,1 @@
+cat /var/run/sshd.pid	-or-	service ssh status | grep "Main PID" | cut -d ' ' -f 4

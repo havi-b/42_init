@@ -1,0 +1,1 @@
+In order to make the intra.42.fr address reroute to 46.19.122.85 you must add the line "46.19.122.85	intra.42.fr" to the hosts file.

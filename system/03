@@ -1,0 +1,1 @@
+In order to permenantly change the system name you must modify the "hostname" file which can be found at the path "/etc/hostname".

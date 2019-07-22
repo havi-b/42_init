@@ -1,0 +1,10 @@
+How to connect as a new user:
+
+Graphical:
+1. Select username.
+2. Enter password and click sign in.
+
+SSH:
+1. Open a terminal window.
+2. Type in the command -> ssh username@localhost.
+3. Enter password when prompted.

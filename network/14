@@ -1,0 +1,1 @@
+The file that contains the local DNS entries is the hosts file and it can be found in etc directory which is at the root directory. (ex. vi /etc/hosts)

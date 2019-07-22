@@ -1,0 +1,1 @@
+The file that contains the RSA keys of systems that are authorized to connect via SSH can be sound in at the path "~/.ssh".

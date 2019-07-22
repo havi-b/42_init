@@ -1,0 +1,3 @@
+cat /var/run/resolv.conf
+
+The file resolv.conf contains the IP address of the DNS server being used. The file can normally be found at the path etc/resolv.cong. However if you use ls -l you can see that it is symbolically linked to the file at the path /var/run/resolv.conf.
